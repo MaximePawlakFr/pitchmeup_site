@@ -3,7 +3,9 @@
 	background-position: center top;
 	background-size: 100% auto;
 }*/
-
+.pmu-sticky-menu.pmu-sticky-menu.pmu-sticky-menu {
+	background: none;
+}
 .pmu-titre.pmu-titre.pmu-titre  {
 	background: none;
 
@@ -28,4 +30,13 @@ body.pushable > .pusher{
 
 .slides {
 	margin-top: 2em;
+}
+
+.last-video {
+	margin-top: 4em;
+	margin-bottom: 4em;
+}
+
+.pmu-main-container.pmu-main-container.pmu-main-container {
+	margin-bottom: 4em;
 }
